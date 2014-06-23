@@ -3,7 +3,7 @@
   "regions": [
     {
       "region": "GME",
-      "scheduled": “ex”,
+      "scheduled": "1234",
       "produced": "NR",
       "variance": "NR",
       "mtdproduced": "111sssss2",
