@@ -1,0 +1,11 @@
+{
+  "Available_Dates": [
+    {"date":"06/17/2014", "url":"http://madeupurl1"},
+    {"date":"06/18/2014", "url":"http://madeupurl2"},
+    {"date":"06/19/2014", "url":"http://madeupurl3"},
+    {"date":"06/20/2014", "url":"http://madeupurl4"},
+    {"date":"06/21/2014", "url":"http://madeupurl5"},
+    {"date":"06/22/2014", "url":"http://madeupurl6"},
+    {"date":"06/23/2014", "url":"http://madeupurl7"}
+  ]
+}
